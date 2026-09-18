@@ -1,0 +1,11 @@
+[functions.ai-chat]
+verify_jwt = true
+
+[functions.create-worker]
+verify_jwt = true
+
+[functions.generate-tips]
+verify_jwt = true
+
+[functions.restore-backup]
+verify_jwt = true

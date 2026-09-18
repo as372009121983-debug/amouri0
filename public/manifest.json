@@ -1,0 +1,27 @@
+{
+  "name": "العموري لقطع غيار السيارات",
+  "short_name": "العموري",
+  "description": "نظام متكامل لإدارة مخازن قطع غيار السيارات - العموري بالدلنجات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#a97a1f",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "screenshots": []
+}
