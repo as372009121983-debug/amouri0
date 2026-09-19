@@ -15,7 +15,7 @@
 import { createClient } from '@supabase/supabase-js';
 
 /** رابط مشروع Supabase المرخّص له فقط — ثابت، لا يُقرأ من .env */
-export const LICENSED_SUPABASE_URL = 'https://higzzyvcvuyxusscfyow.supabase.co';
+export const LICENSED_SUPABASE_URL = 'https://fvxmzagzrdoxwqcsyeag.supabase.co';
 
 /** مفتاح الترخيص الثابت لهذه النسخة */
 export const LICENSE_KEY = 'ELM-3DC8-AF8B-D32D-5AC3';
